@@ -1,5 +1,5 @@
 # Triplanner
-### Co=Pilot prompt for clean architecture :
+### Co-Pilot prompt for clean architecture :
 This Flutter project is a Clean Architecture SaaS app for a World Cup 2030 Morocco travel platform.
 
 We strictly follow 3 layers per feature:
