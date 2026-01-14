@@ -23,3 +23,8 @@ features/trips, features/food, features/sights, features/auth, features/recommen
 The future recommendation system (ML model) must be accessed only through a RecommendationRepository in the Domain layer, never directly from UI or Cubit.
 
 No Widget may contain business logic, API calls, model inference, or data parsing.
+
+# Features to work on
+
+- Authentication
+- ...
